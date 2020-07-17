@@ -8,4 +8,4 @@
 
 [Identity Wheel](04-identity-wheel.pdf)
 
-[Cycle of Socialization]
+[Cycle of Socialization](05-cycle-of-socialization.pdf)
