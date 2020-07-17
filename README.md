@@ -1,1 +1,1 @@
-# Kaida & Bethany's Github Repo
+# Kaida, Bethany, & Sarah's Github Repo
