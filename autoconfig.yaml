@@ -15,6 +15,6 @@ Standards:
       - success criteria
     ContentFiles:
       -
-        Type: Resource
-        UID: e375e6ff80b5a669e7b2bb76d06e9cfb
-        Path: /01-week-1-and-2/00-resources.md
+        Type: Lesson
+        UID: ab60db50bd724e35a066bcfaf3d2f78f
+        Path: /01-week-1-and-2/00-materials.md
