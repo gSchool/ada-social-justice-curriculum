@@ -6,4 +6,6 @@
 
 [4Is of Oppression](./03-4Is.pdf)
 
+[Identity Wheel](04-identity-wheel.pdf)
 
+[Cycle of Socialization]
