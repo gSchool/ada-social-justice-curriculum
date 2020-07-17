@@ -1,11 +1,11 @@
 # Resources 
 
-[Language Building Glossary](./resources/02-glossary.pdf)
+[Language Building Glossary](resources/[02-glossary.pdf](https://github.com/gSchool/ada-social-justice-curriculum/raw/master/01-week-1-and-2/resources/02-glossary.pdf))
 
 [4Is of Oppression Video](https://www.youtube.com/watch?v=3WWyVRo4Uas)
 
-[4Is of Oppression](./03-4Is.pdf)
+[4Is of Oppression]([./03-4Is.pdf](https://github.com/gSchool/ada-social-justice-curriculum/raw/master/01-week-1-and-2/03-4Is.pdf))
 
-[Identity Wheel](04-identity-wheel.pdf)
+[Identity Wheel]([04-identity-wheel.pdf](https://github.com/gSchool/ada-social-justice-curriculum/raw/master/01-week-1-and-2/04-identity-wheel.pdf))
 
-[Cycle of Socialization](05-cycle-of-socialization.pdf)
+[Cycle of Socialization]([05-cycle-of-socialization.pdf](https://github.com/gSchool/ada-social-justice-curriculum/raw/master/01-week-1-and-2/05-cycle-of-socialization.pdf))
