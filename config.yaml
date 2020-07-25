@@ -9,7 +9,7 @@
 Standards:
   -
     Title: Week 1 And 2
-    Description: Week 1 And 2
+    Description: Resources for weeks 1 & 2 Social Justic Curriculum
     UID: e0d7a5520a206548a69299244c504098
     SuccessCriteria:
       - success criteria
@@ -20,7 +20,7 @@ Standards:
         Path: /01-week-1-and-2/00-materials.md
   -
     Title: Week 3 And 4
-    Description: Week 3 And 4
+    Description: Resources for Social Justice curriculum weeks 3 & 4
     UID: 143a49f295a288fe4224aaa3660e404a
     SuccessCriteria:
       - success criteria
