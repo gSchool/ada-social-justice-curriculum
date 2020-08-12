@@ -29,16 +29,16 @@ Standards:
         Type: Lesson
         UID: f1af64ab96645c37cfeaad0dbd929e04
         Path: /02-week-3-and-4/01--weeks-3-4-curriculum.md
--
-  Title: Weeks 5 and 6
-  Description: Resources for Social Justice curriculum weeks 5 and 6
-  UID: 4fbbef54-af2e-4016-95fd-cec847a19991
-  SuccessCriteria:
-    - success criteria
-  ContentFiles:
-    -
-      Type: Lesson
-      UID: f1af64ab96645c37cfeaad0dbd929e04
-      Path: /03-week5-and-6/03-week5-and-6.md
+  -
+    Title: Weeks 5 and 6
+    Description: Resources for Social Justice curriculum weeks 5 and 6
+    UID: 4fbbef54-af2e-4016-95fd-cec847a19991
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: f1af64ab96645c37cfeaad0dbd929e04
+        Path: /03-week5-and-6/03-week5-and-6.md
 
       
